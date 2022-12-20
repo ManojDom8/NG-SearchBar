@@ -8,8 +8,7 @@ export default function App() {
   }
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <h1>Simple Searchbox!</h1>
       <SearchBar
         Width={'250px'}
         TotalCount={0}
